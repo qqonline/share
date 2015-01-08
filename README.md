@@ -10,6 +10,7 @@
 [RecyclerView 的 Item动画](https://github.com/wasabeef/recyclerview-animators) | 天棣-小丑
 [码农周刊整理](https://github.com/nemoTyrant/manong)  | 广州-alee
 [SmartAppUpdates,App增量更新](https://github.com/cundong/SmartAppUpdates) | zhaoyy
+[MaterialDesignCenter](https://github.com/lightSky/MaterialDesignCenter) | [学生-志雄](https://github.com/jacsonLee)  
 
 #### 1 群
 
