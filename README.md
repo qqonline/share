@@ -3,7 +3,7 @@
 > 添加规范：  
 > `[简单介绍](链接) | [分享者 Github](Github 地址) 或 QQ 昵称`
 
-#### 4 群
+#### [4 群](https://github.com/aosp-exchange-group/about)
 
 简介 | 分享者
 :------------- | :-------------
@@ -127,33 +127,33 @@
 [SmartAppUpdates App 增量更新](https://github.com/cundong/SmartAppUpdates) | [zhaoyy](https://github.com/Zhaoyy)
 [MaterialDesignCenter](https://github.com/lightSky/MaterialDesignCenter) | [学生-志雄](https://github.com/jacsonLee)    
 
-#### 1 群
+#### [1 群](https://github.com/aosp-exchange-group/about)
 
 简介 | 分享者
 :------------- | :-------------
  | | |
 
-#### 2 群
+#### [2 群](https://github.com/aosp-exchange-group/about)
 
 简介 | 分享者
 :------------- | :-------------
  | | |
  
 
-#### 3 群
+#### [3 群](https://github.com/aosp-exchange-group/about)
 
 简介 | 分享者
 :------------- | :-------------
  | | |
  
  
-#### 5 群
+#### [5 群](https://github.com/aosp-exchange-group/about)
 
 简介 | 分享者
 :------------- | :-------------
  | | |
  
-#### 6 群
+#### [6 群](https://github.com/aosp-exchange-group/about)
 
 简介 | 分享者
 :------------- | :-------------
