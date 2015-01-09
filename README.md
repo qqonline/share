@@ -7,6 +7,7 @@
 
 简介 | 分享者
 :------------- | :-------------
+[Java-WebSocket(做即时通讯/推送的可以参考下)](https://github.com/TooTallNate/Java-WebSocket) | [tagmic](https://github.com/tagmic)
 [开源音乐播放器](https://github.com/psaravan/JamsMusicPlayer) | [小丑](https://github.com/pcqpcq)
 [HOLO风格的用户引导控件](http://amlcurran.github.io/ShowcaseView/) | [创业－万能野花]()  
 [图文混排](https://github.com/yellowcath/MTextView) | [上海-小红书]()  
