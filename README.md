@@ -128,6 +128,7 @@
 [SmartAppUpdates App 增量更新](https://github.com/cundong/SmartAppUpdates) | [zhaoyy](https://github.com/Zhaoyy)
 [MaterialDesignCenter](https://github.com/lightSky/MaterialDesignCenter) | [学生-志雄](https://github.com/jacsonLee)
 [Zenhub](https://www.zenhub.io/) | [学生-志雄](https://github.com/jacsonLee)  
+[GridImagePicker图片选择查看的GridView和ViewPager](https://github.com/habzy/GridImagePicker)|[流光时代-Mako](https://github.com/MakoFeng)
 
 #### [1 群](https://github.com/aosp-exchange-group/about)
 
