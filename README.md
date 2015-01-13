@@ -150,7 +150,7 @@
 
 简介 | 分享者
 :------------- | :-------------
- | | |
+[一另一种类型的Header的RecycleView](https://github.com/TonicArtos/SuperSLiM) | [北京-虚](https://github.com/xu6148152)
 
 #### [2 群](https://github.com/aosp-exchange-group/about)
 
