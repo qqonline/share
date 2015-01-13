@@ -152,6 +152,8 @@
 :------------- | :-------------
 [另一种类型的Header的RecycleView](https://github.com/TonicArtos/SuperSLiM) | [北京-虚](https://github.com/xu6148152)
 [计算机书籍收集的repo](https://github.com/papers-we-love/papers-we-love) | [北京-虚](https://github.com/xu6148152)
+[仿豌豆荚首页Demo](https://github.com/YeDaxia/WanDaoJiaIndex) | [北京-虚](https://github.com/xu6148152)
+
 
 #### [2 群](https://github.com/aosp-exchange-group/about)
 
