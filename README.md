@@ -154,6 +154,8 @@
 [计算机书籍收集的repo](https://github.com/papers-we-love/papers-we-love) | [北京-虚](https://github.com/xu6148152)
 [仿豌豆荚首页Demo](https://github.com/YeDaxia/WanDaoJiaIndex) | [北京-虚](https://github.com/xu6148152)
 [仿程序员简历模版](https://github.com/geekcompany/ResumeSample) | [北京-虚](https://github.com/xu6148152)
+[国外公开课](https://github.com/prakhar1989/awesome-courses) | [北京-虚](https://github.com/xu6148152)
+
 
 #### [2 群](https://github.com/aosp-exchange-group/about)
 
