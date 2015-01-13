@@ -7,6 +7,19 @@
 
 简介 | 分享者
 :------------- | :-------------
+[一个自动生成gitignore的在线工具](https://www.gitignore.io/) | [杭州-code](https://github.com/shenzihao)
+[自学 iOS 开发的一些经验，同样适用所有初学者](http://www.cocoachina.com/ios/20150104/10823.html) | [小丑](https://github.com/pcqpcq)  
+[Chrome插件：树结构浏览github项目代码](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN  ) | [广州-alee](https://github.com/rizhilee)  
+[在线工具：图片在线压缩](https://tinypng.com/) | [北京-DoAndKeep]()  
+[proGit中文手册，免费](http://progit.org/book/zh/) | [小丑](https://github.com/pcqpcq)  
+[JakeWharton开源了他写的屏幕录像项目，5.0+](https://github.com/JakeWharton/Telecine) | [小丑](https://github.com/pcqpcq)  
+[又一个android项目集合网站](http://android-libs.com/) | [小丑](https://github.com/pcqpcq)  
+[再一个android项目集合网站](http://a.code4app.com/) | [广州-alee](https://github.com/rizhilee)  
+[还有一个android项目集合网站](http://androidcustomviews.com/) | [小丑](https://github.com/pcqpcq)  
+[Android技术周刊](http://androidweekly.net/) | [小丑](https://github.com/pcqpcq)  
+[扩展RecyclerView，增加下拉刷新、分页加载等功能](https://github.com/Malinskiy/SuperRecyclerView) | [小丑](https://github.com/pcqpcq)  
+[经验：开发技能汇总](https://github.com/xiaobeicn/programming-skills-summary) | [自由职业-OneDir](https://github.com/dev4mobile)  
+[经验：Android最佳实践](https://github.com/futurice/android-best-practices) | [自由职业-OneDir](https://github.com/dev4mobile)
 [listview为空时的友好交互界面](https://github.com/alamkanak/android-empty-layout) | [杭州-code](https://github.com/shenzihao)
 [Java-WebSocket(做即时通讯/推送的可以参考下)](https://github.com/TooTallNate/Java-WebSocket) | [tagmic](https://github.com/tagmic)
 [开源音乐播放器](https://github.com/psaravan/JamsMusicPlayer) | [小丑](https://github.com/pcqpcq)
