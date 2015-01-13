@@ -156,6 +156,8 @@
 [仿程序员简历模版](https://github.com/geekcompany/ResumeSample) | [北京-虚](https://github.com/xu6148152)
 [国外公开课](https://github.com/prakhar1989/awesome-courses) | [北京-虚](https://github.com/xu6148152)
 [ios学习资源汇总](https://github.com/Aufree/trip-to-iOS) | [北京-虚](https://github.com/xu6148152)
+[专门生成单例的库](https://github.com/Raizlabs/Singleton) | [北京-虚](https://github.com/xu6148152)
+
 
 
 
