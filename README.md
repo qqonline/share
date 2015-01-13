@@ -7,6 +7,7 @@
 
 简介 | 分享者
 :------------- | :-------------
+[listview为空时的友好交互界面](https://github.com/alamkanak/android-empty-layout) | [杭州-code](https://github.com/shenzihao)
 [Java-WebSocket(做即时通讯/推送的可以参考下)](https://github.com/TooTallNate/Java-WebSocket) | [tagmic](https://github.com/tagmic)
 [开源音乐播放器](https://github.com/psaravan/JamsMusicPlayer) | [小丑](https://github.com/pcqpcq)
 [HOLO风格的用户引导控件](http://amlcurran.github.io/ShowcaseView/) | [创业－万能野花]()  
