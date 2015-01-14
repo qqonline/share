@@ -164,6 +164,8 @@
 [专门生成单例的库](https://github.com/Raizlabs/Singleton) | [北京-虚](https://github.com/xu6148152)
 [车牌识别库](https://github.com/liuruoze/EasyPR) | [北京-虚](https://github.com/xu6148152)
 [RecycleView动画](https://github.com/wasabeef/recyclerview-animators) | [北京-虚](https://github.com/xu6148152)
+[Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html) | [深圳-tianya](https://github.com/qqonline)
+[Material Design 中文版](http://design.1sters.com/) | [深圳-tianya](https://github.com/qqonline)
 
 #### [2 群](https://github.com/aosp-exchange-group/about)
 
