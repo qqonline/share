@@ -148,7 +148,8 @@
 [Jake Wharton写的开源框架示例应用--u2020](https://github.com/JakeWharton/u2020) | [yeungeek](https://github.com/yeungeek) 
 [在u2020应用之上并整合了square的mortar和flow框架](https://github.com/lemonlabs/u2020-mortar) | [yeungeek](https://github.com/yeungeek) 
 [Android应用快速模板生成工具I -- android bootstrap)](http://www.androidbootstrap.com/) | [yeungeek](https://github.com/yeungeek) 
-[Android应用快速模板生成工具II -- 基于Jake Wharton的u2020应用](http://velcro.andrewreitz.com/) | [yeungeek](https://github.com/yeungeek)
+[Android应用快速模板生成工具II -- 基于Jake Wharton的u2020应用](http://velcro.andrewreitz.com/) | [yeungeek](https://github.com/yeungeek) 
+[.gitignore忽略文件模板,包含各种语言和IDE声明](https://github.com/github/gitignore/) | [yeungeek](https://github.com/yeungeek)
 
 #### [1 群](https://github.com/aosp-exchange-group/about)
 
