@@ -168,7 +168,7 @@
 [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html) | [深圳-扯淡兄](https://github.com/qqonline)
 [Android Weekly(中文版)](http://zhuanlan.zhihu.com/android-weekly) | [深圳-扯淡兄](https://github.com/qqonline)
 [技术小黑屋](https://droidyue.com/) | [深圳-扯淡兄](https://github.com/qqonline)
-[即时通讯技术分享](https://zhuanlan.zhihu.com/helloim) | [深圳-扯淡兄](https://github.com/qqonline
+[即时通讯技术分享](https://zhuanlan.zhihu.com/helloim) | [深圳-扯淡兄](https://github.com/qqonline)
 
 #### [2 群](https://github.com/aosp-exchange-group/about)
 
